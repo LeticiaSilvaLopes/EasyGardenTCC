@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "axios": "0.17.1",
+    "node-schedule": "^2.1.0",
+    "pg": "^8.8.0",
     "request": "^2.88.2",
     "telegraf": "3.17.3"
   },
